@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pytest
+requests
+openapi-spec-validator
+pytest-html
