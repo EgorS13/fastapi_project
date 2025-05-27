@@ -21,6 +21,7 @@ uvicorn app:app --reload
 
 Сервер будет доступен по адресу:  
 http://127.0.0.1:8000
+
 А OpenAPI спецификация:
 http://127.0.0.1:8000/openapi.json
 
